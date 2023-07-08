@@ -1,0 +1,12 @@
+# --------------------------------------------
+# Python
+# --------------------------------------------
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+Enunciado.pdf
+Enunciado(imprimible).pdf
+sprites/
+sonidos/
+puntajes.txt
+aparicion_zombies.py
