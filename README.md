@@ -1,7 +1,7 @@
 ## DCCruz vs Zombies :zombie::seedling::sunflower:
 
 ## Ejecución :computer:
-El módulo principal de la tarea a ejecutar es  ```main.py```.
+El módulo principal a ejecutar es  ```main.py```.
 
 ## Librerías :books:
 ### Librerías externas utilizadas
